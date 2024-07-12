@@ -4,8 +4,9 @@ En este repositorio se encontrará el código de descarga del archivo que contie
 
 Este trabajo está realizado por alumnos de Estadística Informática y Biología.
 #### Integrantes:
-1. Angelo Jesus Mamani
-2. Josselyn Garay Sudario
-3. Ximena Quinte Saenz
-4. Ariana Olortegui Perez Pacheco
-5. Adryana Garces Quispe
+1. Angelo Jesus Mamani (Estadística) (navi43)
+2. Adryana Garces Quispe (Estadística) (GarcesQ)
+3. Josselyn Garay Sudario (Biología)
+4. Ximena Quinte Saenz (Biología)
+5. Ariana Olortegui Perez Pacheco (Biología)
+
